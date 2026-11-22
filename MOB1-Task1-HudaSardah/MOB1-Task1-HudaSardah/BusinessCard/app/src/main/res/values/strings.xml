@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Huda Emad Sardah</string>
+    <string name="job_title">Expert Android Developer</string>
+    <string name="phone_number">+970 599 000 000</string>
+    <string name="social_handle">\@HudaSardah</string>
+    <string name="email">huda.sardah@android.com</string>
+</resources>
